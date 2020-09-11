@@ -2,7 +2,7 @@
     padding: 0px;
     margin: 0px;
 }
-.header{
+.navbar{
     background-color: #f44336;
     height: 5rem;
     
@@ -58,4 +58,31 @@ button{
 .footer{
     background-color: #263238;
     height: 7rem;
+}
+.paragraph{
+    color: white;
+        margin-left: 700px;
+        margin-top: 20px
+}
+.heading{
+    margin-left: 300px; 
+    margin-top: 100px;
+}
+.paragraph2{
+    margin-left: 300px;
+     margin-top: 20px;
+}
+.heaper{
+    margin-left: 300px; 
+    margin-top: 20px;
+}
+.button1{
+    color: white;
+     background-color: red;
+}
+.paragraph1{
+    margin-left: 20px
+}
+.paragraph0{
+    margin-left: 500px;
 }
